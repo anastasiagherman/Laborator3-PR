@@ -1,0 +1,1287 @@
+    <body>
+    <script>
+        const lang = "en";
+    </script>
+        <div class="preloader"></div>
+        <div class="mobmenu">
+    <div class="mobmenu__darken"></div>
+    <div class="mobmenu__wrapper">
+        <div class="mobmenu__close" id="close-mobmenu"><svg class="svgspr svgspr__ui_icon_close" xmlns="http://www.w3.org/2000/svg">
+                <use xlink:href="#ui_icon_close"></use>
+            </svg></div>
+        <div class="mobmenu__content">
+            <div class="mobmenu__top">
+                <div class="selphonenum selphonenum__mob">
+                                                                        <div class="selphonenum__curr">Chișinău : <span class="selphonenum__currnum">022 210-210 </span>
+                                <span class="selphonenum__act">
+                                    <svg class="svgspr svgspr__ui_icon_arrow_arrow" xmlns="http://www.w3.org/2000/svg">
+                                        <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                    </svg>
+                                </span>
+                            </div>
+                                                                                                                                                                                                                                                <div class="selphonenum__dropdown">
+                        <ul class="selphonenum__dropdown-list">
+                                                            <li data-id="2" class="selphonenum__dropdown-item"><span>Chișinău </span><span>022 210-210</span></li>
+                                                            <li data-id="11" class="selphonenum__dropdown-item"><span>Balti</span><span>023 120-210</span></li>
+                                                            <li data-id="17" class="selphonenum__dropdown-item"><span>Cahul</span><span>078 848 484</span></li>
+                                                            <li data-id="16" class="selphonenum__dropdown-item"><span>Comrat</span><span>078 22-00-88</span></li>
+                                                            <li data-id="18" class="selphonenum__dropdown-item"><span>Ceadâr Lunga</span><span>079 22-44-66</span></li>
+                                                    </ul>
+                    </div>
+                </div>
+                <ul class="adilinks">
+                    
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: HTTP_HOST</p>
+<p>Filename: helpers/mine_helper.php</p>
+<p>Line Number: 268</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/helpers/mine_helper.php<br />
+			Line: 268<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/views/layouts/pages/mobmenu.php<br />
+			Line: 31<br />
+			Function: select_language			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/views/pages/index.php<br />
+			Line: 91<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/core/FrontEndController.php<br />
+			Line: 306<br />
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/controllers/frontend/Categories.php<br />
+			Line: 111<br />
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/index.php<br />
+			Line: 287<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>                                <li class="adilinks__item"><a href="https:///ro/catalog/8">Ro</a></li>
+             
+                                <li class="adilinks__item"><a href="https:///ru/catalog/8">Ru</a></li>
+             
+                         
+                    </ul>
+            </div>
+            <div class="mobmenu__list">
+                <ul class="droplist">
+                    <li class="droplist__item droplist__item_list">
+                        <a href="#">Menu                            <i>
+                                <svg class="svgspr svgspr__ui_icon_mobarrow" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                </svg>
+                            </i>
+                        </a>
+                        <ul class="droplist droplist_level_2 droplist__submenu">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li class="droplist__item"><a href="/en/catalog/8">Pizza</a></li>
+                                                                                                                                                                                      <li class="droplist__item"><a href="/en/catalog/106">Breakfast</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/84">Snaks</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/2">Salads</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/3">Soups</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/5">Main Dishes</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/88">Box</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/104">Happy Box</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/90">Party menu</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/113">Andy`s Bakery</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/108">Cake</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/18">Dessert</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/79">Semi-finished products</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/13">Supplements</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/15">Beverages</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/43">Alcohol</a></li>
+                                                                                                                           <li class="droplist__item"><a href="/en/catalog/94">Cutlery</a></li>
+                                                                               </ul>
+                    </li>
+                                                                    <li class="droplist__item ">
+                            <a href="/en/menu">Menu                                                            </a>
+                                                    </li>
+                                                                    <li class="droplist__item ">
+                            <a href="/en/restaurants">Restaurants                                                            </a>
+                                                    </li>
+                                                                    <li class="droplist__item ">
+                            <a href="/en/news">News                                                            </a>
+                                                    </li>
+                                                                    <li class="droplist__item  droplist__item_list">
+                            <a href="/en/services">Services                                                                    <i>
+                                        <svg class="svgspr svgspr__ui_icon_mobarrow" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                        </svg>
+                                    </i>
+                                                            </a>
+                                                            <ul class="droplist droplist_level_2 droplist__submenu">
+                                                                            <li class="droplist__item"><a href="/en/client_card">Client card</a></li>
+                                                                            <li class="droplist__item"><a href="/en/corporate_clients">Corporate clients</a></li>
+                                                                            <li class="droplist__item"><a href="/en/kids_parties">Kids parties</a></li>
+                                                                            <li class="droplist__item"><a href="/en/banquets">Banquets</a></li>
+                                                                    </ul>
+                                                    </li>
+                                                                    <li class="droplist__item ">
+                            <a href="/en/menu_in_restaurant">Menu in restaurant                                                            </a>
+                                                    </li>
+                                    </ul>
+                <ul class="droplist">
+                                            <li class="droplist__item"><a class="" href="/en/feedback">Feedback</a></li>
+                                            <li class="droplist__item"><a class="" href="/en/contacts">Contacts</a></li>
+                                            <li class="droplist__item"><a class="" href="/en/delivery">Delivery</a></li>
+                                    </ul>
+            </div>
+            <div class="mobmenu__add"><img src="/assets/img/pays.png" alt="" />
+                <a target="_blank" href="https://www.facebook.com/andyspizzaclub">
+                    <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                        <use xlink:href="#icon_facebook"></use>
+                    </svg>
+                </a>
+                <a target="_blank" href="https://www.instagram.com/andys.md/?hl=ru">
+                    <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                        <use xlink:href="#icon_instagram"></use>
+                    </svg>
+                </a>
+                <a target="_blank" href="http://www.youtube.com/user/andyspizzaclub?sub_confirmation=1">
+                    <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                        <use xlink:href="#icon_youtube"></use>
+                    </svg>
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+<header class="header  ">
+    <div class="container">
+        <div class="header__content">
+            <div class="hamburg" id="show-mobmenu"><span></span></div>
+            <div class="header__logo">
+                <div class="header__logo-wrapper"><a style="" href="/en"><img src="/assets/img/logo.svg" alt="Logo" /></a></div>
+            </div>
+            <div class="header__menu">
+                <div class="header__addt">
+                    <div class="selphonenum">
+                                                                                    <div class="selphonenum__curr">Chișinău : <span class="selphonenum__currnum">022 210-210 </span>
+                                    <span class="selphonenum__act">
+                                        <svg class="svgspr svgspr__ui_icon_arrow_arrow" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                        </svg>
+                                    </span>
+                                </div>
+                                                                                                                                                                                                                                                                                            <div class="selphonenum__dropdown">
+                            <ul class="selphonenum__dropdown-list">
+                                                                    <li data-id="2" class="selphonenum__dropdown-item"><span>Chișinău </span><span>022 210-210</span></li>
+                                                                    <li data-id="11" class="selphonenum__dropdown-item"><span>Balti</span><span>023 120-210</span></li>
+                                                                    <li data-id="17" class="selphonenum__dropdown-item"><span>Cahul</span><span>078 848 484</span></li>
+                                                                    <li data-id="16" class="selphonenum__dropdown-item"><span>Comrat</span><span>078 22-00-88</span></li>
+                                                                    <li data-id="18" class="selphonenum__dropdown-item"><span>Ceadâr Lunga</span><span>079 22-44-66</span></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                    <div class="brands__list" style="display:grid;grid-template-columns: repeat(3, 1fr); align-items: center;justify-content: center;text-align: center;margin-top: 5px;">
+                        <div class="brands__list-item">
+                            <a href="https://laplacinte.md" target="_blank"><img src="/assets/img/brands/LaPlacinte.svg" width="86" alt=""></a>
+                        </div>
+                        <div class="brands__list-item">
+                            <a href="https://ciaocacao.md" target="_blank"><img src="/assets/img/brands/CiaoCacao.svg" width="64" alt=""></a>
+                        </div>
+                        <div class="brands__list-item" style="margin-top: -4px;">
+                            <a href="https://gustland.md" target="_blank"><img src="/assets/img/brands/Gustland.png" width="74" alt=""></a>
+                        </div>
+                                            </div>
+                    <ul class="adilinks">
+                                                    <li class="adilinks__item"><a class="" href="/en/feedback">Feedback</a></li>
+                                                    <li class="adilinks__item"><a class="" href="/en/contacts">Contacts</a></li>
+                                                    <li class="adilinks__item"><a class="" href="/en/delivery">Delivery</a></li>
+                                                
+<div style="border:1px solid #990000;padding-left:20px;margin:0 0 10px 0;">
+
+<h4>A PHP Error was encountered</h4>
+
+<p>Severity: Notice</p>
+<p>Message:  Undefined index: HTTP_HOST</p>
+<p>Filename: helpers/mine_helper.php</p>
+<p>Line Number: 268</p>
+
+
+	<p>Backtrace:</p>
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/helpers/mine_helper.php<br />
+			Line: 268<br />
+			Function: _error_handler			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/views/layouts/pages/header.php<br />
+			Line: 49<br />
+			Function: select_language			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/views/pages/index.php<br />
+			Line: 92<br />
+			Function: view			</p>
+
+		
+	
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/core/FrontEndController.php<br />
+			Line: 306<br />
+			Function: view			</p>
+
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/application/controllers/frontend/Categories.php<br />
+			Line: 111<br />
+			Function: _render			</p>
+
+		
+	
+		
+	
+		
+			<p style="margin-left:10px">
+			File: /home/andys/public_html/index.php<br />
+			Line: 287<br />
+			Function: require_once			</p>
+
+		
+	
+
+</div>                                <li class="adilinks__item"><a href="https:///ro/catalog/8">Ro</a></li>
+             
+                                <li class="adilinks__item"><a href="https:///ru/catalog/8">Ru</a></li>
+             
+                         
+                        </ul>
+                </div>
+                <div class="header__main">
+                    <div class="header__navbar">
+                        <ul class="dropmenu">
+                            <li class="dropmenu__item dropmenu__item_isdrop active">
+                                <a href="/en/catalog/">
+                                    Menu                                    <i>
+                                        <svg class="svgspr svgspr__ui_icon_arrow_arrow" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                        </svg>
+                                    </i>
+                                </a>
+                                <div class="dropmenu__submenu menudrop">
+                                    <div class="menudrop__list">
+                                        <div class="verlist">
+                                            <ul class="verlist__col">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <li class="verlist__item"><a class="" href="/en/catalog/8">Pizza</a></li>
+                                                                                                                                                                                                                                                                                                                    <li class="verlist__item"><a class="" href="/en/catalog/106">Breakfast</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/84">Snaks</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/2">Salads</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/3">Soups</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/5">Main Dishes</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/88">Box</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/104">Happy Box</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/90">Party menu</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/113">Andy`s Bakery</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/108">Cake</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/18">Dessert</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/79">Semi-finished products</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/13">Supplements</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/15">Beverages</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/43">Alcohol</a></li>
+                                                                                                                                                                                                                <li class="verlist__item"><a class="" href="/en/catalog/94">Cutlery</a></li>
+                                                                                                    
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="menudrop__prod">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <div class="menudrop__prod-item">
+                                                    <a class="prodimgp" href="/en/catalog/90" style="background-image: url(/public/i/no_image_220_310_1.png)">
+                                                        <div class="prodimgp__name">Party menu</div>
+                                                    </a>
+                                                </div>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        </div>
+                                </div>
+                            </li>
+                                                                                            <li class="dropmenu__item dropmenu__item_isdrop ">
+                                    <a href="/en/menu">
+                                        Menu                                                                            </a>
+                                                                    </li>
+                                                                                            <li class="dropmenu__item dropmenu__item_isdrop ">
+                                    <a href="/en/restaurants">
+                                        Restaurants                                                                            </a>
+                                                                    </li>
+                                                                                            <li class="dropmenu__item dropmenu__item_isdrop ">
+                                    <a href="/en/news">
+                                        News                                                                            </a>
+                                                                    </li>
+                                                                                            <li class="dropmenu__item dropmenu__item_isdrop ">
+                                    <a href="javascript:;">
+                                        Services                                                                                    <i>
+                                                <svg class="svgspr svgspr__ui_icon_arrow_arrow" xmlns="http://www.w3.org/2000/svg">
+                                                    <use xlink:href="#ui_icon_arrow_arrow"></use>
+                                                </svg>
+                                            </i>
+                                                                            </a>
+                                                                            <div class="dropmenu__submenu menudrop" style="width:300px;left: auto; ">
+                                            <div class="menudrop__list" style="width:100%">
+                                                <div class="verlist">
+                                                    <ul class="verlist__col">
+                                                                                                                    <li class="verlist__item"><a class="" href="/en/client_card">Client card</a></li>
+                                                                                                                    <li class="verlist__item"><a class="" href="/en/corporate_clients">Corporate clients</a></li>
+                                                                                                                    <li class="verlist__item"><a class="" href="/en/kids_parties">Kids parties</a></li>
+                                                                                                                    <li class="verlist__item"><a class="" href="/en/banquets">Banquets</a></li>
+                                                        
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                                                            <li class="dropmenu__item dropmenu__item_isdrop ">
+                                    <a href="/en/menu_in_restaurant">
+                                        Menu in restaurant                                                                            </a>
+                                                                    </li>
+                                                    </ul>
+                    </div>
+                    <div class="header__login">
+                                                            <a class="header__login-act " href="/en/login">
+                                <svg class="svgspr svgspr__ui_icon_login" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#ui_icon_login"></use>
+                                </svg><span>Login</span></a>
+                                                    </div>
+                    <div class="header__bag">
+                        <div class="bag"><a class="bag__tobag" href="/en/cart"><svg class="svgspr svgspr__ui_icon_bag" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#ui_icon_bag"></use>
+                                </svg>
+                                <div class="bag__count cart_count">0</div>
+                            </a>
+                            <div class="bag__products">
+                                <div class="bag__header">Your cart is empty</div>
+                                <ul class="bag__list">
+                                                                    </ul>
+                                <div class="bag__finish" style="display:none">
+                                    <ul class="bag__finish-info">
+                                        <li class="bag__finish-info-item">
+                                            <div class="bag__finish-info-name">Delivery</div>
+                                            <div class="bag__finish-info-value"><span class="cart_delivery">40</span>&nbsp;mdl</div>
+                                        </li>
+                                        <li class="bag__finish-info-item">
+                                            <div class="bag__finish-info-name">Total</div>
+                                            <div class="bag__finish-info-value"><span class="cart_total">40</span>&nbsp;mdl</div>
+                                        </li>
+                                    </ul>
+                                    <div class="bag__finish-act"><a href="/en/cart" class="button button_end">Order</a></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<div class="page-content">
+    <div class="modal-menu">
+    <div class="modal-menu__content">
+        <div class="modal-menu__blur"></div>
+        <div class="modal-menu__close">
+            <svg class="svgspr svgspr__ui_icon-cancel" xmlns="http://www.w3.org/2000/svg">
+                <use xlink:href="#ui_icon_cancel"></use>
+            </svg>
+        </div>
+        <div class="modal-menu__header">Menu</div>
+        <div class="modal-menu__list">
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <a class="modal-menu__list-item" href="/en/catalog/8"><img src="/public/category/thumbs/version_210x110x1/pizza4.png" alt="" />
+                        <div class="modal-menu__list-name">Pizza</div>
+                    </a>
+                                                                                                                <a class="modal-menu__list-item" href="/en/catalog/106"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Breakfast</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/84"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Snaks</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/2"><img src="/public/category/thumbs/version_210x110x1/20171218-IMG_5482-Edit.png" alt="" />
+                        <div class="modal-menu__list-name">Salads</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/3"><img src="/public/category/thumbs/version_210x110x1/IMG_1867-Edit1.png" alt="" />
+                        <div class="modal-menu__list-name">Soups</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/5"><img src="/public/category/thumbs/version_210x110x1/Calde.png" alt="" />
+                        <div class="modal-menu__list-name">Main Dishes</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/88"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Box</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/104"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Happy Box</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/90"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Party menu</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/113"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Andy`s Bakery</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/108"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Cake</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/18"><img src="/public/category/thumbs/version_210x110x1/Deserte.png" alt="" />
+                        <div class="modal-menu__list-name">Dessert</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/79"><img src="/public/category/thumbs/version_210x110x1/img_cat_gustl.png" alt="" />
+                        <div class="modal-menu__list-name">Semi-finished products</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/13"><img src="/public/category/thumbs/version_210x110x1/suplimente.png" alt="" />
+                        <div class="modal-menu__list-name">Supplements</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/15"><img src="/public/category/thumbs/version_210x110x1/bauturi.png" alt="" />
+                        <div class="modal-menu__list-name">Beverages</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/43"><img src="/public/category/thumbs/version_210x110x1/alcool.png" alt="" />
+                        <div class="modal-menu__list-name">Alcohol</div>
+                    </a>
+                                                                                    <a class="modal-menu__list-item" href="/en/catalog/94"><img src="/public/i/no_image_210_110_1.png" alt="" />
+                        <div class="modal-menu__list-name">Cutlery</div>
+                    </a>
+                                    </div>
+    </div>
+</div>
+        <div class="container">
+        <div class="prodheader-nav">
+            <div class="prodheader-nav__header">
+                <div class="prodheader-nav__title"><span>Pizza</span></div>
+            </div>
+                    </div>
+    </div>
+            <div class="container">
+                            <div class="list-products">
+                                                                        <div class="product" id="product_2384">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2384">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/c16804bcd0d47fce6c6d033b694a09fe.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/16299a11219bd72f0c8fd4010a07a915.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered dough for pizza, red pizza sauce, chicken meat, mushrooms, mayonnaise, cheese, gogoshara.</p>
+</div>
+                                        <div>580</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Rancho                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2384"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2385">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2385">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/9edc060af068da34bc5c8298755f11a2.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/e82699285be9e14654e7ca2476437b49.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered dough for pizza, red sauce for pizza, ham, mushrooms, cheese, black&nbsp;and green olives.</p>
+</div>
+                                        <div>510</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Neapolitana                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2385"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2386">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2386">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/abe848cde189206049cae70fee65b2ad.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/7c14b1449f6d8adca5575c7a5a5a87a9.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered pizza dough, red pizza sauce, chicken steak, sweet pepper, mozzarel, olives of Kalamata, Bryns sheep, basil, olive oil.</p>
+</div>
+                                        <div>610</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Greek                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2386"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">110.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2387">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2387">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/1d9d15e01830693aa9d0e6b5851dd8d6.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/737c8692719fc56eb65cd525be837aef.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered Pizza Dough, Red Sauce for Pizza, Mayonnaise, Cheese, Chicken Meat, Dor Blue Cheese, Gogoshara, Kabanos sausages, spinach.</p>
+</div>
+                                        <div>550</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Mario                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2387"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2388">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2388">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/3a9c24985cb363b8cc326e00e39cad6e.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/aacd0811da0fe2823176bac8da9b8295.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Acute pizza with salyamib paprika and chili</p>
+</div>
+                                        <div>475</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Pepperoni                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2388"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2389">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2389">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/cf7cd100049565ea69af659f168fc20b.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/eac9362c7dcd11df9149ecb057259c6d.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered dough for pizza, cheese, brie cheese, cheese Dorblu, mousse cheese.</p>
+</div>
+                                        <div>420</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                5 cheese                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2389"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2390">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2390">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/6401a48dae0fe70a9d21e2af5a2af15d.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/052e9f089f73d9cb5ecb8b831109f3b5.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Pizza with BBQ sauce, salami, chicken meat and gogoshara</p>
+</div>
+                                        <div>560</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                BBQ                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2390"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2391">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2391">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/756e8908e97a0b115455d61e9974e4be.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/ca8085dd901ba992ddaac490de35648e.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered dough for pizza, red sauce for pizza, mozzarella, basil, olive oil.</p>
+</div>
+                                        <div>380</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Margherita                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2391"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">90.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Preorder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2392">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2392">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/c27269905a79d2464354ce3b1c7470fc.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/8b40df852a74516dcba8edef08ca0f7a.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered Pizza Dough, Cream, Chicken Meat, Cheese, Parmesan, Champignon Mushrooms, Truffle Oil</p>
+</div>
+                                        <div>580</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Funghi                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2392"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2393">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2393">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/5f71c6a4bdf369408ff668400fe72d80.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/54f1ef6f7b196dd7ff88999b348c50ba.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Spicy pizza with beef stuffing, cheese, corn, beans, onions, garlic</p>
+</div>
+                                        <div>600</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Mexica                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2393"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">110.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2394">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2394">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/57229e46a5be68397d3ac5a7a18e4104.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/371a245e5dbe8f847441da414a5bc3af.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered pizza dough, red sauce for pizza, cheese, salami, island sausages, fresh mushrooms, gogoshara, green olives, sausages Kabanos, sharp pen.</p>
+</div>
+                                        <div>520</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Diablo                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2394"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                <div class="product" id="product_2395">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2395">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/a3099954ff65317a41a32948f7a29c9c.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/d38d02cdaf1b7656c98c0a753072dd0a.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Weathered pizza dough, red pizza sauce, ham, mushrooms, marinated eggplants, cheese of cheese, mayonnaise, cheese.</p>
+</div>
+                                        <div>600</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Capricioasa                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2395"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">105.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                        <div class="product" id="product_2503">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2503">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/adcd905f06f660415cd8bdadf2edcbcb.jpg" alt=""/>
+                                    </div>
+                                                                                                                    <div class="imageOut">
+                                            <img src="/public/menu/thumbs/version_220x310x1/9c42fdf1b8260373dcb16e25323d8fa6.jpg" alt=""/>
+                                        </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Pizza with ham, mushrooms and cheese.</p>
+</div>
+                                        <div>550</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Bianca                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2503"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">110.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                                    <div class="product" id="product_2197">
+                                                                                                                                                                <div class="stickers__list">
+                                                                    </div>
+                                                                                                    
+                                <div class="product__img show_order_win" data-id="2197">
+                                                                        <div class="imageIn">
+                                        <img src="/public/menu/thumbs/version_220x310x1/e45e68b65dbb88891399af133c1d2f54.jpg" alt=""/>
+                                    </div>
+                                                                        <div class="product__about">
+                                        <div class="product__about-close">
+                                            <svg class="svgspr svgspr__ui_icon_close_2"
+                                                 xmlns="http://www.w3.org/2000/svg">
+                                                <use xlink:href="#ui_icon_close_2"></use>
+                                            </svg>
+                                        </div>
+                                        <div><p>Fork, spoon, knife,&nbsp;salt, pepper, toothpick, napkin with logo, case for cutlery.</p>
+</div>
+                                        <div>30</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Fork / Spoon / Knife                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2197"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">2.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                                                                                                                                                                                </div>
+                    </div>
+    </div>
+<footer class="footer">
+    <div class="container-extends container_full-md">
+        <div class="footer__wrap">
+            <div class="container">
+                <div class="footer__content">
+                    <div class="footer__nav">
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Company</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/career">Career</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/feedback">Feedback</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/contacts">Contacts</a></li>
+                                                                            </ul>
+                                                            </div>
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Services</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/client_card">Client card</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/corporate_clients">Corporate clients</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/kids_parties">Kids parties</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/banquets">Banquets</a></li>
+                                                                            </ul>
+                                                            </div>
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Delivery</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/chisinau">Chișinău</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/balti">Bălți</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/cahul">Cahul</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/comrat">Comrat</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/ceadar_lunga">Ceadâr Lunga</a></li>
+                                                                            </ul>
+                                                            </div>
+                                            </div>
+                    <div class="footer__info">
+                        <div class="subscribe">
+                            <div class="subscribe__title">Подписаться на рассылку</div>
+                            <div class="subscribe__form"><input class="input-text input-text_min" type="text" name="Email" placeholder="Ваш email" /><input class="button button_min" type="submit" value="Subscribe" /></div>
+                        </div>
+                        <div class="footer__add"><img src="/assets/img/pays.png" alt="" />
+                            <a target="_blank" href="https://www.facebook.com/andysclubmd/">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_facebook"></use>
+                                </svg>
+                            </a>
+                            <a target="_blank" href="https://www.instagram.com/andys.md/?hl=ru">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_instagram"></use>
+                                </svg>
+                            </a>
+                            <a target="_blank" href="https://www.youtube.com/user/andyspizzaclub?sub_confirmation=1">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_youtube"></use>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="footer__add">
+                            <div class="developed">
+                                                                    <a href="https://www.ilab.md/en/" target="_blank">Site development – ilab.md</a>
+                                                                <br/>
+                                                                    <a href="https://www.Midsun.md" target="_blank">Designed by Midsun.md</a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>

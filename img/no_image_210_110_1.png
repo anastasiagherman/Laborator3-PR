@@ -1,0 +1,104 @@
+<p>The product is frozen. Savoyardi biscuit soaked in Amaretto liqueur and natural coffee, stuffed with Mascarpone cream cheese. The shelf life of the thawed product is 4 hours + 2 + 4C</p>
+</div>
+                                        <div>550</div>
+                                    </div>
+                                </div>
+                                                                    <div class="product__alert">
+                                        <div class="product__alert_msg">Added to cart</div>
+                                        <div class="product__alert_close product__price"><span>Will close in:&nbsp;</span><span></span>
+                                        </div>
+                                    </div>
+                                                                <div class="product__header">
+                                    <div class="product__name">
+                                                                                Tiramisu                                    </div>
+                                    <div class="product__info">
+                                        <svg class="svgspr svgspr_ui_icon_info" xmlns="http://www.w3.org/2000/svg">
+                                            <use xlink:href="#ul_icon_info"></use>
+                                        </svg>
+                                    </div>
+                                </div>
+                                                                                                                                                                                                        <div class="product__buy add_to_cart" data-id="2016"
+                                                     data-type="1" data-delivery="0"
+                                                     style="opacity:1">
+                                                    <div class="product__price">130.00 mdl</div>
+                                                                                                        <div class="product__order">
+                                                            <span>Оrder                                                                <svg class="svgspr svgspr_ui_icon_basket"
+                                                                     xmlns="http://www.w3.org/2000/svg">
+                                                                    <use xlink:href="#ui_icon_basket"></use>
+                                                                </svg>
+                                                            </span>
+                                                    </div>
+                                                </div>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                                                                                                                                                                    </div>
+                    </div>
+    </div>
+<footer class="footer">
+    <div class="container-extends container_full-md">
+        <div class="footer__wrap">
+            <div class="container">
+                <div class="footer__content">
+                    <div class="footer__nav">
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Company</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/career">Career</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/feedback">Feedback</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/contacts">Contacts</a></li>
+                                                                            </ul>
+                                                            </div>
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Services</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/client_card">Client card</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/corporate_clients">Corporate clients</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/kids_parties">Kids parties</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/banquets">Banquets</a></li>
+                                                                            </ul>
+                                                            </div>
+                                                                                <div class="footer__nav-cat">
+                                <div class="footer__name-cat">Delivery</div>
+                                                                    <ul class="footer__nav-list">
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/chisinau">Chișinău</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/balti">Bălți</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/cahul">Cahul</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/comrat">Comrat</a></li>
+                                                                                    <li class="footer__nav-item"><a class="" href="/en/ceadar_lunga">Ceadâr Lunga</a></li>
+                                                                            </ul>
+                                                            </div>
+                                            </div>
+                    <div class="footer__info">
+                        <div class="subscribe">
+                            <div class="subscribe__title">Подписаться на рассылку</div>
+                            <div class="subscribe__form"><input class="input-text input-text_min" type="text" name="Email" placeholder="Ваш email" /><input class="button button_min" type="submit" value="Subscribe" /></div>
+                        </div>
+                        <div class="footer__add"><img src="/assets/img/pays.png" alt="" />
+                            <a target="_blank" href="https://www.facebook.com/andysclubmd/">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_facebook"></use>
+                                </svg>
+                            </a>
+                            <a target="_blank" href="https://www.instagram.com/andys.md/?hl=ru">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_instagram"></use>
+                                </svg>
+                            </a>
+                            <a target="_blank" href="https://www.youtube.com/user/andyspizzaclub?sub_confirmation=1">
+                                <svg class="svgspr svgspr__soc" xmlns="http://www.w3.org/2000/svg">
+                                    <use xlink:href="#icon_youtube"></use>
+                                </svg>
+                            </a>
+                        </div>
+                        <div class="footer__add">
+                            <div class="developed">
+                                                                    <a href="https://www.ilab.md/en/" target="_blank">Site development – ilab.md</a>
+                                                                <br/>
+                                                                    <a href="https://www.Midsun.md" target="_blank">Designed by Midsun.md</a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
